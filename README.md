@@ -13,4 +13,4 @@ In a nutshell:
 - Tested & verified (using https://litmus.com) for ALL major, but also older email clients
 - Customization
   - On module level
-  - With predefined CSSc lasses for HTML elements
+  - With predefined CSS classes for HTML elements
