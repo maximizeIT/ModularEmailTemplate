@@ -1,7 +1,8 @@
 # Modular Email Template
 
 HTML Template: https://maximizeit.github.io/ModularEmailTemplate/Generic-Modular-Email-Template.html
-PNG: https://maximizeit.github.io/ModularEmailTemplate/Generic-Modular-Email-Template.png
+
+Overview (PNG): https://maximizeit.github.io/ModularEmailTemplate/Generic-Modular-Email-Template.png
 
 In a nutshell:
 - 30 Modules
