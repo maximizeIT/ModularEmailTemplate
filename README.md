@@ -9,7 +9,7 @@ In a nutshell:
   - Pricing/comparison tables
   - Galleries
   - Blog styles
-  - CTA links, CTA buttons,full width images,and many more...
+  - CTA links, CTA buttons, full width images, and many more...
 - Hybrid Implementation
 - Commented HTML templates
 - Tested & verified (using https://litmus.com) for ALL major, but also older email clients
